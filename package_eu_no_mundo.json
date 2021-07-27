@@ -1,0 +1,15 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Como eu me vejo no mundo daqui a 01 ano",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "Eu",
+    "no",
+    "Mundo"
+  ],
+  "author": "Elieser Jr.",
+  "license": "ISC"
+}

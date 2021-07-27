@@ -1,0 +1,14 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "Olá mundo! Estou usando Node.js, NPM e HTML.",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "Olá",
+    "Mundo"
+  ],
+  "author": "Elieser Jr.",
+  "license": "ISC"
+}
